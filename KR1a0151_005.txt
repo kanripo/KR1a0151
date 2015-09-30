@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易翼述信
-#+DATE: 2015-09-23 09:35:42
-#+PROPERTY: JUAN 5
+#+DATE: 2015-08-24 22:00:33.872935
+#+PROPERTY: ID KR1a0151
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五
 <pb:KR1a0151_WYG_005-1a>¶
 欽定四庫全書¶
 　易翼述信卷五　　　廬州府同知王又樸撰¶
@@ -974,4 +976,3 @@
 　¶
 　¶
 　易翼述信卷五¶
-
